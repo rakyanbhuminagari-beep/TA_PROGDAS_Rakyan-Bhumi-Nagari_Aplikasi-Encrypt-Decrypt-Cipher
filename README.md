@@ -46,13 +46,7 @@ Aplikasi ini membutuhkan **CustomTkinter**. Install dengan perintah berikut di t
 
 ```bash
 pip install customtkinter
-```
 
-*Atau jika kamu menggunakan packaging:*
-
-```bash
-pip install packaging
-```
 
 ### 4\. Jalankan Aplikasi
 
