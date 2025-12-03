@@ -14,7 +14,7 @@ Dibuat menggunakan Python dan library `customtkinter`, proyek ini mendemonstrasi
 
 ## 🛠️ Teknologi
 
-* **Bahasa:** Python 3.x
+* **Bahasa:** Python 
 * **Library UI:** [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 * **Tools:** VS Code 
 
