@@ -80,4 +80,3 @@ python main.py
 *Dibuat untuk Tugas Akhir Pemrograman Dasar.*
 
 ----
-titip
