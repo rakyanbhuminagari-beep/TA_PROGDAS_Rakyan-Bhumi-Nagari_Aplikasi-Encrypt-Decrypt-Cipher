@@ -1,5 +1,5 @@
 
-# 🔐 Cipher Encrypy-Decrypt Tool
+# 🔐 Cipher Encrypt-Decrypt Tool
 
 > **Aplikasi Enkripsi & Dekripsi dengan GUI customtkinter.**
 
