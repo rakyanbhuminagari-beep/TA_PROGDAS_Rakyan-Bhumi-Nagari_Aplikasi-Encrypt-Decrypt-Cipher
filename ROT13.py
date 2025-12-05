@@ -57,7 +57,7 @@ def ROT18 (pesan):
     for char in pesan :
         if char.isalpha() and char.isupper():
             charCode = ord(char)
-            newCharcode = charCode + 18
+            newCharcode = charCode + 13
 
             if newCharcode > HURUF_KAPITAL_AKHIR :
                 newCharcode -= JANGKAUAN_HURUF_KAPITAL
@@ -69,7 +69,7 @@ def ROT18 (pesan):
             hasil += newChar
         elif char.isalpha() and char.islower():
             charCode = ord(char)
-            newCharcode= charCode + 18
+            newCharcode= charCode + 13
         
             if newCharcode > HURUF_KECIL_AKHIR :
                 newCharcode -= JANGKAUAN_HURUF_KECIL
